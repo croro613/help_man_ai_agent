@@ -1,0 +1,16 @@
+{
+  "name": "90f89dea-97f1-44ab-984a-22480817eb7c",
+  "displayName": "Travel plan",
+  "goal": "音声会話スクリプトから旅行の栞を作成する。",
+  "tokenCount": 39,
+  "instruction": {
+    "steps": [ {
+      "text": "与えられた情報をまとめて栞を作成してmarkdown形式で出力してください。"
+    }, {
+      "text": "質問はしないでください。"
+    } ]
+  },
+  "codeBlock": {
+  
+  }
+}

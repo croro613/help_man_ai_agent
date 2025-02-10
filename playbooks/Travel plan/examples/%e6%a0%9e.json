@@ -1,0 +1,24 @@
+{
+  "name": "d47d34a2-de3f-4e62-afe9-1ebcbf97b0b9",
+  "actions": [ {
+    "agentUtterance": {
+      "text": "\u003c!DOCTYPE html\u003e\n\u003chtml lang=\"ja\"\u003e\n\u003chead\u003e\n  \u003cmeta charset=\"UTF-8\" /\u003e\n  \u003ctitle\u003e沖縄旅行プラン\u003c/title\u003e\n  \u003cstyle\u003e\n    body {\n      font-family: sans-serif;\n      background-color: #fdfbe6; /* 栞っぽい雰囲気を出す薄い背景色 */\n      margin: 0;\n      padding: 20px;\n      line-height: 1.5;\n      color: #333;\n    }\n\n    h2 {\n      margin-top: 0;\n      background-color: #ffed86;\n      display: inline-block;\n      padding: 8px 12px;\n      border-radius: 8px;\n      font-size: 1.4rem;\n    }\n\n    h3 {\n      margin-bottom: 0.4rem;\n      margin-top: 1.6rem;\n      color: #444;\n    }\n\n    h4 {\n      margin: 1.6rem 0 0.4rem 0;\n      color: #666;\n    }\n\n    hr {\n      border: none;\n      border-top: 1px dashed #ccc;\n      margin: 1.2rem 0;\n    }\n\n    ul {\n      margin: 0.5rem 0 1rem 1.4rem;\n    }\n\n    li {\n      margin: 0.3rem 0;\n    }\n\n    .memo-title {\n      font-weight: bold;\n    }\n  \u003c/style\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\n  \u003ch2\u003e4日間の沖縄旅行プラン\u003cbr\u003e(低予算向け, 2名想定)\u003c/h2\u003e\n\n  \u003ch3\u003eDay1\u003c/h3\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003cstrong\u003e09:00\u003c/strong\u003e　那覇空港到着 → ホテルチェックイン（那覇市内, 1泊5,000円前後）\u003c/li\u003e\n    \u003cli\u003e\u003cstrong\u003e13:00\u003c/strong\u003e　首里城・周辺観光\u003c/li\u003e\n    \u003cli\u003e\u003cstrong\u003e18:00\u003c/strong\u003e　国際通りで屋台巡り＆沖縄そば\u003c/li\u003e\n  \u003c/ul\u003e\n\n  \u003ch3\u003eDay2\u003c/h3\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003cstrong\u003e08:00\u003c/strong\u003e　那覇から慶良間諸島ツアー（日帰りシュノーケリング, 約8,000円/人）\u003c/li\u003e\n    \u003cli\u003e\u003cstrong\u003e17:00\u003c/strong\u003e　那覇に戻り、市内宿泊\u003c/li\u003e\n  \u003c/ul\u003e\n\n  \u003ch3\u003eDay3\u003c/h3\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003cstrong\u003e09:00\u003c/strong\u003e　本島北部へ移動（レンタカー or バス）\u003c/li\u003e\n    \u003cli\u003e\u003cstrong\u003e11:00\u003c/strong\u003e　美ら海水族館観光（入場料 約1,880円/人）\u003c/li\u003e\n    \u003cli\u003e\u003cstrong\u003e16:00\u003c/strong\u003e　名護 or 恩納村でリーズナブルなリゾートホテル（1泊6,000円前後）\u003c/li\u003e\n  \u003c/ul\u003e\n\n  \u003ch3\u003eDay4\u003c/h3\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003cstrong\u003e09:00\u003c/strong\u003e　近隣ビーチで散策\u003c/li\u003e\n    \u003cli\u003e\u003cstrong\u003e12:00\u003c/strong\u003e　正午ごろ那覇へ移動\u003c/li\u003e\n    \u003cli\u003e\u003cstrong\u003e17:00\u003c/strong\u003e　帰路（那覇空港発）\u003c/li\u003e\n  \u003c/ul\u003e\n\n  \u003chr /\u003e\n\n  \u003ch4\u003e概算費用\u003c/h4\u003e\n  \u003cul\u003e\n    \u003cli\u003e航空券（往復）：15,000〜20,000円/人（時期により変動）\u003c/li\u003e\n    \u003cli\u003e宿泊費：計3泊 × ~5,000〜6,000円/泊\u003c/li\u003e\n    \u003cli\u003eアクティビティ：慶良間ツアー 約8,000円、美ら海水族館 約1,880円\u003c/li\u003e\n    \u003cli\u003eレンタカー（2日利用）：~10,000円程度 + ガソリン代\u003c/li\u003e\n  \u003c/ul\u003e\n\n  \u003chr /\u003e\n\n  \u003cp class=\"memo-title\"\u003eメモ:\u003c/p\u003e\n  \u003cul\u003e\n    \u003cli\u003e日程に余裕があれば、他の離島への訪問も検討可能\u003c/li\u003e\n    \u003cli\u003e時期や予約タイミングで料金変動あり\u003c/li\u003e\n  \u003c/ul\u003e\n\n\u003c/body\u003e\n\u003c/html\u003e\n"
+    }
+  } ],
+  "playbookInput": {
+    "precedingConversationSummary": "ユーザーは 来月 に 沖縄旅行を検討している。\n\n旅行日程: 4日または5日を想定（まだ確定ではない）\n希望:\nビーチでのんびり\n離島（慶良間諸島）でシュノーケリングやダイビング\n首里城・沖縄県立博物館・美術館などの歴史や文化スポット\n沖縄そば、ゴーヤーチャンプルー、ラフテーなどのローカルグルメ\n予算: なるべくリーズナブル\n要望: 日ごとの具体的な旅程（宿泊費やアクティビティ料金のざっくり見積もり含む）を作成してほしい。\n旅行の準備ができたら、プランを共有してほしいというリクエスト。",
+    "actionParameters": {
+    
+    }
+  },
+  "playbookOutput": {
+    "executionSummary": "Agent provides a detailed 4 day Okinawa trip itinerary for 2 people with approximate costs.",
+    "actionParameters": {
+    
+    }
+  },
+  "displayName": "栞",
+  "tokenCount": 1235,
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "0ace2902-ab14-4bea-9a9a-8490fae636de",
+  "actions": [ {
+    "userUtterance": {
+      "text": "\nのさ、来月あたり沖縄に行きたいって思ってるんだけど、どう思う？ それはいいね！沖縄はビーチも綺麗だし、食べ物も美味しいし。だいたい何日くらい滞在する予定？ まだはっきり決めてないんだけど、4日か5日くらいにしようかなって考えてる。ビーチも行きたいし、沖縄の離島とかにも行ってみたいんだよね。 離島巡りかあ。たとえば慶良間諸島は那覇からフェリーで行けるし、シュノーケルやダイビングが有名だよ。 いいね！やってみたい。あと、首里城とか歴史的な場所も回りたいし、地元の食べ物もいろいろ食べたい。 だったら首里城と沖縄県立博物館・美術館をチェックしてみるといいかも。食事は沖縄そばとかゴーヤーチャンプルー、それとラフテーとかもおすすめだよ。 確かに。うーん、予算はあまり高くできないから、なるべくリーズナブルなプランがいいんだけど、具体的にどういう旅程がいいかな？提案してほしいんだけど。 了解。じゃあ、4日くらいを想定して日ごとのプランを考えてみるね。宿泊費やアクティビティの料金もざっくり見積もりしてみよう。 助かる！できればビーチと離島は外さず、あとは首里城とご当地グルメが楽しめるような感じで。 OK。だいたいのプランができたらまた共有するね。 ありがとう！楽しみにしてる。\n"
+    }
+  }, {
+    "playbookInvocation": {
+      "playbook": "Travel plan",
+      "playbookInput": {
+        "precedingConversationSummary": "ユーザーは 来月 に 沖縄旅行を検討している。\n\n旅行日程: 4日または5日を想定（まだ確定ではない）\n希望:\nビーチでのんびり\n離島（慶良間諸島）でシュノーケリングやダイビング\n首里城・沖縄県立博物館・美術館などの歴史や文化スポット\n沖縄そば、ゴーヤーチャンプルー、ラフテーなどのローカルグルメ\n予算: なるべくリーズナブル",
+        "actionParameters": {
+        
+        }
+      },
+      "playbookOutput": {
+        "executionSummary": "栞が完成した",
+        "actionParameters": {
+        
+        }
+      },
+      "playbookState": "OUTPUT_STATE_OK"
+    }
+  } ],
+  "playbookOutput": {
+    "executionSummary": "Agent provides a 4-day low-budget Okinawa travel plan, including itinerary and estimated cost.",
+    "actionParameters": {
+    
+    }
+  },
+  "displayName": "旅行の栞作成",
+  "tokenCount": 549,
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

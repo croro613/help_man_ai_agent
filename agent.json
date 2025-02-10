@@ -1,0 +1,42 @@
+{
+  "displayName": "旅行プランナー",
+  "defaultLanguageCode": "ja",
+  "timeZone": "Asia/Tokyo",
+  "speechToTextSettings": {
+  
+  },
+  "advancedSettings": {
+    "audioExportGcsDestination": {
+    
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "loggingSettings": {
+    
+    },
+    "speechAdaptationSettings": {
+    
+    }
+  },
+  "dataResidencyOption": "DATA_RESIDENCY_IN_USE_COMPLIANT",
+  "speakerIdSettings": {
+  
+  },
+  "textToSpeechSettings": {
+  
+  },
+  "duplexSettings": {
+  
+  },
+  "startPlaybook": "counter",
+  "webClientSettings": {
+    "boxBorderRadius": "0"
+  }
+}

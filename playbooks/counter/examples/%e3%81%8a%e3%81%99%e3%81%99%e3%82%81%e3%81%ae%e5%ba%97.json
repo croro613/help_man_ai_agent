@@ -1,0 +1,35 @@
+{
+  "name": "d5e1c535-902e-4601-aa92-4af236532038",
+  "actions": [ {
+    "userUtterance": {
+      "text": "石垣島でおすすめのラーメン屋ある？"
+    }
+  }, {
+    "playbookInvocation": {
+      "playbook": "Travel Inspiration",
+      "playbookInput": {
+        "precedingConversationSummary": "ユーザーは石垣島でおすすめのラーメン屋を探している。",
+        "actionParameters": {
+        
+        }
+      },
+      "playbookOutput": {
+        "executionSummary": "おすすめのラーメン屋情報を返す。",
+        "actionParameters": {
+        
+        }
+      },
+      "playbookState": "OUTPUT_STATE_OK"
+    }
+  } ],
+  "playbookOutput": {
+    "executionSummary": "おすすめのラーメン屋を返す",
+    "actionParameters": {
+    
+    }
+  },
+  "displayName": "おすすめの店",
+  "tokenCount": 172,
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

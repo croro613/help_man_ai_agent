@@ -1,0 +1,15 @@
+{
+  "name": "68912c70-5217-4d86-995f-5bd3cb5e2a05",
+  "displayName": "place-search",
+  "openApiSpec": {
+    "authentication": {
+      "apiKeyConfig": {
+        "keyName": "X-Goog-Api-Key",
+        "apiKey": "<YOUR_API_KEY>",
+        "requestLocation": "HEADER"
+      }
+    },
+    "ignoreUnknownFields": true
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

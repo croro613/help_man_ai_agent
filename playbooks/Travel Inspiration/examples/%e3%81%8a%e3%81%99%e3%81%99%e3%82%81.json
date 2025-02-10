@@ -1,0 +1,40 @@
+{
+  "name": "2c320a3d-ddbf-4c9a-8541-59ce12100eee",
+  "actions": [ {
+    "toolUse": {
+      "tool": "place-search",
+      "action": "searchText",
+      "inputActionParameters": {
+        "X-Goog-FieldMask": "places.displayName,places.formattedAddress,places.priceLevel",
+        "requestBody": {
+          "textQuery": "石垣島のラーメン屋"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "places": [ {
+            "displayName": "",
+            "formattedAddress": "",
+            "priceLevel": 1
+          } ]
+        }
+      }
+    }
+  } ],
+  "playbookInput": {
+    "precedingConversationSummary": "ユーザーは石垣島のラーメン屋を探している",
+    "actionParameters": {
+    
+    }
+  },
+  "playbookOutput": {
+    "executionSummary": "一番おすすめのラーメン屋を提供する",
+    "actionParameters": {
+    
+    }
+  },
+  "displayName": "おすすめ",
+  "tokenCount": 187,
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "undetected"
+}

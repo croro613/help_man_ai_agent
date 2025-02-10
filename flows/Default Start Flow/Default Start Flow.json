@@ -1,0 +1,44 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "こんにちは！" ]
+        },
+        "languageCode": "ja"
+      } ]
+    },
+    "name": "5f3fde04-0e64-4b2e-bf5a-3c8c2d7fa0ff"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "すみません。よく分かりませんでした。", "今のは少しわかりにくかったです。", "少し言い換えていただけませんか。", "失礼ですが、もう一度おねがいします。", "ちょっと分かりませんでした。", "今、なんておっしゃいましたか？" ]
+        },
+        "languageCode": "ja"
+      } ]
+    },
+    "name": "ea6a073a-9a79-4644-ad52-bca7afa60c16"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "すみません。よく分かりませんでした。", "今のは少しわかりにくかったです。", "少し言い換えていただけませんか。", "失礼ですが、もう一度おねがいします。", "ちょっと分かりませんでした。", "今、なんておっしゃいましたか？" ]
+        },
+        "languageCode": "ja"
+      } ]
+    },
+    "name": "abff5897-952d-4d0d-9fae-196015d6b84d"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001
+  }
+}

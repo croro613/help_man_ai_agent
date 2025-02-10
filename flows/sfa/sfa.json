@@ -1,0 +1,36 @@
+{
+  "name": "66ba208d-d7f7-49c0-b9e6-9eb76b54a137",
+  "displayName": "sfa",
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "すみません。よく分かりませんでした。", "今のは少しわかりにくかったです。", "少し言い換えていただけませんか。", "失礼ですが、もう一度おねがいします。", "ちょっと分かりませんでした。", "今、なんておっしゃいましたか？" ]
+        },
+        "languageCode": "ja"
+      } ]
+    },
+    "name": "a14ead10-ccf4-446e-a1b1-b0e82353149d"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "すみません。よく分かりませんでした。", "今のは少しわかりにくかったです。", "少し言い換えていただけませんか。", "失礼ですが、もう一度おねがいします。", "ちょっと分かりませんでした。", "今、なんておっしゃいましたか？" ]
+        },
+        "languageCode": "ja"
+      } ]
+    },
+    "name": "b2d34eef-db62-4c6b-a7f1-b0a76349d157"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001
+  },
+  "nluSettingsList": [ {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "languageCode": "ja"
+  } ]
+}
