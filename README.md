@@ -8,3 +8,6 @@
 3. Toolsからplace-searchを選びAuthentication内のX-Goog-Api-KeyヘッダーのシークレットをGoogle Places API (New)のAPIキーに変更する
 
 ※APIキー変更後にGoogle Cloud側からpushしなおすと、リポジトリ内(tools/place-search/place-search.json)にAPIキーが入るため注意。(対処法が思いつかないので一旦このやり方)
+
+
+やっほ〜〜〜
